@@ -3,7 +3,8 @@ package com.xdandroid.hellodaemon;
 import android.app.*;
 import android.content.*;
 import android.os.*;
-import android.support.annotation.*;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 
 import java.util.*;
 
